@@ -7,6 +7,9 @@ You can download the CANLab core tools (written in **MATLAB**) using the followi
 
 	$ git clone https://github.com/canlab/CanlabCore.git
 	
+You can also download this SAS2015_PatRec github repository using the following command line. 
+
+	$ git clone https://github.com/wanirepo/SAS2015_PatRec.git
 
 ## Overview
 
@@ -35,7 +38,7 @@ For your note, our <code>fmri\_data.predict</code> has both options for Rocha an
 
 ## Getting started
 
-predict\_example.m has all the codes you need for the hands-on experience. The output figures and some explanations of the code are saved [here]().  
+predict\_example.m has all the codes you need for the hands-on experience. The output figures and detailed explanations can be found [here](https://hackpad.com/SAS-2015-Pattern-Recognition-nH4ypQDZx1i).  
 
 
 
