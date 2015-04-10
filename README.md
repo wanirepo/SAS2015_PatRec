@@ -1,6 +1,6 @@
 # SAS2015 Pattern Recognition
 
-This github repository includes a walk-through of CANLab MVPA tools to help people get hands-on experience using [CANLab fMRI analysis tools](https://github.com/canlab/CanlabCore). This github is coupled with this [hackpad](https://hackpad.com/SAS-2015-Pattern-Recognition-nH4ypQDZx1i). 
+This github repository includes a walk-through example to help people get hands-on experience of using [CANLab MVPA tools](https://github.com/canlab/CanlabCore). This github is coupled with this [hackpad](https://hackpad.com/SAS-2015-Pattern-Recognition-nH4ypQDZx1i). 
 
 ## Installation
 You can download the CANLab core tools (written in **MATLAB**) using the following command line. You can also **fork** the CanlabCore repository. 
