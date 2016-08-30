@@ -23,7 +23,7 @@ Using this function, you will be able to run many different machine learning alg
 
 ## Dependency
 
-Our [core toolbox](https://github.com/canlab/CanlabCore) has these external toolboxes within a directory called "External", but I recommend downloading them from their website directly.
+Our [core toolbox](https://github.com/canlab/CanlabCore) has these external toolboxes within a directory called "External", and you can also download them from their website directly.
 
 #### 1. Spider toolbox for SVMs
 [http://people.kyb.tuebingen.mpg.de/spider/download_frames.html](http://people.kyb.tuebingen.mpg.de/spider/download_frames.html)
